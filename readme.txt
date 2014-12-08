@@ -1,5 +1,5 @@
 === Woocommerce E-mail Pedido Cancelado ===
-Contributors: Carlos Cardoso Dias
+Contributors: agenciamagma, Carlos Cardoso Dias
 Donate link: http://www.agenciamagma.com.br
 Tags: woocommerce, e-mail, cancelamento, pedido, pedido cancelado, woocommerce cancelamento
 Requires at least: 4.0.1

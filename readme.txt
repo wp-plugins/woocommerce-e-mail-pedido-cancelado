@@ -4,7 +4,7 @@ Donate link: http://www.agenciamagma.com.br
 Tags: woocommerce, e-mail, cancelamento, pedido, pedido cancelado, woocommerce cancelamento
 Requires at least: 4.0.1
 Tested up to: 4.0.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,10 +35,16 @@ Yes. The plugin was been tested under woocommerce 2.2.8, so that might be enough
 
 == Changelog ==
 
+= 1.0.1 =
+* E-mail with WooCommerce template.
+
 = 1.0 =
 * First version.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+This version uses a cool WooCommerce default template for e-mails.
 
 = 1.0 =
 First version.

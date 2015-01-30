@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Woocommerce E-mail Pedido Cancelado
  * Plugin URI: http://www.agenciamagma.com.br
- * Description: Send email to user when his order is cancelled.
+ * Description: Send email to user when his order is cancelled. Confira a versão premium de nossos plugins em <a href="http://www.magmastore.com.br/">http://www.magmastore.com.br/</a>.
  * Version: 1.0.1
  * Author: agenciamagma
  * Author URI: http://agenciamagma.com.br
